@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SWEdatCode
-- 👀 I’m interested in everything System and Software Development
+- 👀 I’m interested in System and Software Development
 - 🌱 I’m currently a student of Computer Science
 - 💞️ I’m actively looking to collaborate on projects that make a difference
 - 📫 How to reach me swthsebastian@gmail.com
