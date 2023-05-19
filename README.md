@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SWEdatCode
-- 👀 I’m interested in everything Data and Web Development
-- 🌱 I’m currently studying Computer Science
-- 💞️ I’m looking to collaborate on projects that make a difference
+- 👀 I’m interested in everything System and Software Development
+- 🌱 I’m currently a student of Computer Science
+- 💞️ I’m actively looking to collaborate on projects that make a difference
 - 📫 How to reach me swthsebastian@gmail.com
 
 <!---
