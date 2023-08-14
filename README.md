@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SWEdatCode
+- 👋 Hi, I’m Swetha
 - 👀 I’m interested in System and Software Development
 - 🌱 I’m currently a student of Computer Science
 - 💞️ I’m actively looking to collaborate on projects that make a difference
